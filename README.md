@@ -1,4 +1,4 @@
-# ML
-Repo for my homework files of Machine Learning course at HSE. \
-Spring 2022.
-Teacher is Elena Kantonistova.
+## Machine Learning | Машинное обучение в ВШЭ
+Репозиторий с работами по курсу в ВШЭ. Весна 2022.
+
+Планируется 14 занятий. \
