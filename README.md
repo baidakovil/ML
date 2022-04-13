@@ -1,4 +1,12 @@
-# ML
-Repo for my homework files of Machine Learning course at HSE. \
-Spring 2022.
-Teacher is Elena Kantonistova.
+## Machine Learning | Машинное обучение в ВШЭ
+Репозиторий с работами по курсу в ВШЭ. Весна 2022.
+
+Планируется 14 занятий
+
+### Начало
+HW1 **Инструменты из Python, используемые в ML**\
+Pandas, Numpy, SKlearn, Seaborn & Matplotlib — известны с занятий по Python, математике, алгоритмам и пр. \
+
+HW2 **Линейная регрессия и градиентный спуск**\
+Основные этапы в ML — подготовка данных, создание признаков, обучение модели, оценка модели
+
